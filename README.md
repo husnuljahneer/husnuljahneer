@@ -49,11 +49,12 @@
 <br />
 <br />
 
-## 📈 my github stats
+## 📈 my 2022 github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=husnuljahneer&show_icons=true&theme=gotham" alt="husnuljahneer" />
 
-### ALL TIME STATS
+### 📈 all time stats
+
 ![](https://raw.githubusercontent.com/husnuljahneer/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/husnuljahneer/github-stats-transparent/output/generated/languages.svg)
 
