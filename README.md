@@ -3,6 +3,8 @@
 [![Website](https://img.shields.io/website?label=jahneer.ninja&style=for-the-badge&url=https%3A%2F%2Fjahneer.ninja)](https://jahneer.ninja)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hjahneer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/hjahneer)
 
+(https://i.imgur.com/W4kvgmO.gif)
+
 ## I'm a Semi Pro MMA Fighter, Brother, Developer, and Entertainer!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -43,8 +45,6 @@
 <br />
 
 ---
-
-
 
 [website]: https://jahneer.ninja
 [twitter]: https://twitter.com/hjahneer
