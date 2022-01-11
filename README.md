@@ -3,14 +3,19 @@
 </h1>
 
 
-### Hi there, I'm Jahneer 👋 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Jahneer!)](https://git.io/typing-svg)
+
 
 [![Website](https://img.shields.io/website?label=jahneer.ninja&style=for-the-badge&url=https%3A%2F%2Fjahneer.ninja)](https://jahneer.ninja)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hjahneer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/hjahneer)
 
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
+
 ## Spotify
+- if you see a broken image its prollly bcoz im not listening to the spotify rn
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312stz54lfef4o3rqxkgipfiyotm&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=312stz54lfef4o3rqxkgipfiyotm&redirect=true)
+
 
 ## I'm a Semi Pro MMA Fighter, Brother, Developer, and Entertainer!!
 
