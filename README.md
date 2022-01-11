@@ -16,7 +16,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to dance and play football.
 
-https://visitor-badge.glitch.me/badge?page_id=husnuljahneer.visitor-badge
+![](https://visitor-badge.glitch.me/badge?page_id=husnuljahneer.visitor-badge)
 
 ### Connect with me:
 
