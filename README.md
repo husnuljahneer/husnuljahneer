@@ -53,11 +53,6 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=husnuljahneer&show_icons=true&theme=gotham" alt="husnuljahneer" />
 
-![](https://raw.githubusercontent.com/husnuljahneer/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/husnuljahneer/github-stats-transparent/output/generated/languages.svg)
-
-
-
 ---
 
 [website]: https://jahneer.ninja
