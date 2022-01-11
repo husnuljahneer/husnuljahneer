@@ -7,34 +7,24 @@
 
 
 [![Website](https://img.shields.io/website?label=jahneer.ninja&style=for-the-badge&url=https%3A%2F%2Fjahneer.ninja)](https://jahneer.ninja)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hjahneer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/hjahneer)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hjahneer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/hjahneer) <br>
+<img align="center" alt="jahneer.ninja" width="100px" src="https://visitor-badge.glitch.me/badge?page_id=husnuljahneer.visitor-badge" />
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 
-## Spotify
+## 🎶 Spotify
 - if you see a broken image its prollly bcoz im not listening to the spotify rn
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312stz54lfef4o3rqxkgipfiyotm&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=312stz54lfef4o3rqxkgipfiyotm&redirect=true)
 
+## 🔗Connect with me:
 
-## I'm a Semi Pro MMA Fighter, Brother, Developer, and Entertainer!!
+[<img align="left" alt="jahneer.ninja" width="80px" src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" />][website]
+[<img align="left" alt="jahneer | YouTube" width="80px" src="https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
+[<img align="left" alt="jahneer | Twitter" width="80px" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
+[<img align="left" alt="jahneer | LinkedIn" width="80px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="jahneer | Instagram" width="80px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][instagram]
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to dance and play football.
-
-![](https://visitor-badge.glitch.me/badge?page_id=husnuljahneer.visitor-badge)
-
-### Connect with me:
-
-[<img align="left" alt="jahneer.ninja" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="jahneer | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="jahneer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="jahneer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jahneer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ## 🛠️ My favorite tools
 
