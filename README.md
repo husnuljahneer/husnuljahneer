@@ -115,7 +115,7 @@
 
 ## 📈 my 2022 github stats
 
-![](https://github-readme-stats.vercel.app/api?username=husnuljahneer&show_icons=true&theme=gotham)
+![](https://github-readme-stats.vercel.app/api?username=husnuljahneer&show_icons=true&theme=dark)
 
 ---
 
