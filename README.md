@@ -23,7 +23,7 @@
 [<img align="left" alt="jahneer | YouTube" width="80px" src="https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
 [<img align="left" alt="jahneer | Twitter" width="80px" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
 [<img align="left" alt="jahneer | LinkedIn" width="80px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="jahneer | Instagram" width="80px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][instagram]
+[<img align="left" alt="jahneer | Instagram" width="80px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 <br>
 
