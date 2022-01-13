@@ -3,7 +3,7 @@
 </h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Jahneer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Jahneer!)]
 
 
 [![Website](https://img.shields.io/website?label=jahneer.ninja&style=for-the-badge&url=https%3A%2F%2Fjahneer.ninja)](https://jahneer.ninja)
