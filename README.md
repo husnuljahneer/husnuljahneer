@@ -15,7 +15,7 @@
 ## 🎶 Spotify
 - if you see a broken image its prollly bcoz im not listening to the spotify rn
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312stz54lfef4o3rqxkgipfiyotm&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=312stz54lfef4o3rqxkgipfiyotm&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312stz54lfef4o3rqxkgipfiyotm&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🔗Connect with me:
 
