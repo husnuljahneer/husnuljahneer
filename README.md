@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Jahneer!)]()
 
-- Plate right now : [L1 Maintainer](https://blitzjs.com/)
+- Plate right now : [L1 Maintainer & Contributor](https://blitzjs.com/)
 - Project doing at the moment : [Web3 eCommerce](https://#)
 
 <br>
