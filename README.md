@@ -5,6 +5,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Jahneer!)]()
 
+- Plate right now : [L1 Maintainer](https://blitzjs.com/)
+- Project doing at the moment : [Web3 eCommerce](https://#)
+
+<br>
 
 [![Website](https://img.shields.io/website?label=jahneer.ninja&style=for-the-badge&url=https%3A%2F%2Fjahneer.ninja)](https://jahneer.ninja)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hjahneer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/hjahneer) <br>
