@@ -7,7 +7,7 @@
 
 - Plate right now : [L1 Maintainer & Contributor](https://blitzjs.com/)
 - Project doing at the moment : [Web3 eCommerce](https://#)
-
+- My GitHub gist : [Gist](https://gist.github.com/husnuljahneer)
 <br>
 
 [![Website](https://img.shields.io/website?label=jahneer.me&style=for-the-badge&url=https%3A%2F%2Fjahneer.me)](https://jahneer.me)
