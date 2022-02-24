@@ -1,5 +1,6 @@
 <h1 align="center">
   <img src="https://i.imgur.com/SgMX5Vt.gif" alt="Husnul Jahneer" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=husnuljahneer&theme=algolia" />
 </h1>
 
 
@@ -96,37 +97,33 @@
 ### 💻 Software and tools
 
 <p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
-    <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-DD1100.svg?logo=wolfram-mathematica&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img height='20px' alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+    <a href="#"><img height='20px' alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+    <a href="#"><img height='20px' alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
+    <a href="#"><img height='20px' alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
+    <a href="#"><img height='20px' alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="#"><img height='20px' alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
+    <a href="#"><img height='20px' alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+    <a href="#"><img height='20px' alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
+    <a href="#"><img height='20px' alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img height='20px' alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img height='20px' alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
+    <a href="#"><img height='20px' alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img height='20px' alt="Mathematica" src="https://img.shields.io/badge/Mathematica-DD1100.svg?logo=wolfram-mathematica&logoColor=white"></a>
+    <a href="#"><img height='20px' alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
+    <a href="#"><img height='20px' alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
+    <a href="#"><img height='20px' alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img height='20px' alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img height='20px' alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
 
 ## 📈 My GitHub stats
+<p align='center'>
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husnuljahneer&langs_count=8&layout=compact" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=husnuljahneer&show_icons=true" />
+</p>
 
-<img height= "150" src="https://github-readme-stats.vercel.app/api?username=mfkfawas&theme=react&show_icons=true&include_all_commits=true" />
-
-![](https://github-readme-stats.vercel.app/api?username=husnuljahneer&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husnuljahneer&langs_count=8&layout=compact)](https://github.com/husnuljahneer/github-readme-stats)
-
----
-    
 [website]: https://jahneer.ninja
 [twitter]: https://twitter.com/hjahneer
 [youtube]: https://youtube.com/husnuljahneer
