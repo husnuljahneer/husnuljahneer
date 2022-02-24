@@ -117,7 +117,9 @@
 </p>
 
 
-## 📈 my 2022 github stats
+## 📈 My GitHub stats
+
+<img height= "150" src="https://github-readme-stats.vercel.app/api?username=mfkfawas&theme=react&show_icons=true&include_all_commits=true" />
 
 ![](https://github-readme-stats.vercel.app/api?username=husnuljahneer&show_icons=true)
 
