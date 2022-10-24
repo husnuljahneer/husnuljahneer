@@ -7,6 +7,7 @@
 
 - Plate right now : [L1 Maintainer & Contributor](https://blitzjs.com/)
 - Project doing at the moment : [Web3 eCommerce](https://#)
+- My Npm Packages : [npm](https://www.npmjs.com/~husnuljahneer)
 - My GitHub gist : [Gist](https://gist.github.com/husnuljahneer)
 <br>
 
