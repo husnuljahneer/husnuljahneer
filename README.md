@@ -11,7 +11,7 @@
 - My GitHub gist : [Gist](https://gist.github.com/husnuljahneer)
 <br>
 
-[![Website](https://img.shields.io/website?label=jahneer.me&style=for-the-badge&url=https%3A%2F%2Fjahneer.me)](https://jahneer.me)
+[![Website](https://img.shields.io/website?label=jahneer.me&style=for-the-badge&url=https%3A%2F%2Fjahneer.me)](https://husnuljahneer.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hjahneer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/hjahneer) <br>
 <img align="center" alt="_ServerDown" height="25px" src="https://visitor-badge.glitch.me/badge?page_id=husnuljahneer.visitor-badge" />
 
